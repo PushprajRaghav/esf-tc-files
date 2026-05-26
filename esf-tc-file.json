@@ -1,0 +1,293 @@
+{
+  "schemaVersion": 1,
+  "esfRevision": 1,
+  "defaultCountry": "US",
+  "countryEntries": {
+    "US": {
+      "defaultLanguage": "en",
+      "languageEntries": {
+        "en": [
+          {
+            "ordinal": 0,
+            "required": true,
+            "title": "<strong>Terms and Conditions</strong>",
+            "text": "Please read these terms and conditions carefully, as they govern <i>your use</i> of the device. By proceeding, you <u>agree</u> to comply with these terms."
+          },
+          {
+            "ordinal": 1,
+            "required": true,
+            "title": "<strong>Privacy Policy</strong>",
+            "text": "This policy outlines how <i>personal data</i> is collected, <u>used</u>, and protected. Your privacy is important to us."
+          },
+          {
+            "ordinal": 2,
+            "required": false,
+            "title": "<b>Device Usage</b>",
+            "text": "Guidelines on the <em>appropriate</em> and <u>prohibited</u> uses of this device."
+          },
+          {
+            "ordinal": 3,
+            "required": false,
+            "title": "<u>Software Updates</u>",
+            "text": "Information on how and when <em>device software</em> will be updated, including <strong>automatic updates</strong> and <small>user-initiated updates</small>."
+          },
+          {
+            "ordinal": 4,
+            "required": false,
+            "title": "<em>Data Sharing</em>",
+            "text": "How your <strong>data</strong> might be shared with third parties for service <i>integration</i>."
+          },
+          {
+            "ordinal": 5,
+            "required": false,
+            "title": "Warranty",
+            "text": "Details the warranty provided, what it covers, and its duration."
+          }
+        ]
+      }
+    },
+    "MX": {
+      "defaultLanguage": "es",
+      "languageEntries": {
+        "en": [
+          {
+            "ordinal": 0,
+            "required": true,
+            "title": "<strong>Terms and Conditions</strong>",
+            "text": "Please read these terms and conditions carefully, as they govern <i>your use</i> of the device. By proceeding, you <u>agree</u> to comply with these terms."
+          },
+          {
+            "ordinal": 1,
+            "required": true,
+            "title": "<strong>Privacy Policy</strong>",
+            "text": "This policy outlines how <i>personal data</i> is collected, <u>used</u>, and protected. Your privacy is important to us."
+          },
+          {
+            "ordinal": 2,
+            "required": false,
+            "title": "<b>Device Usage</b>",
+            "text": "Guidelines on the <em>appropriate</em> and <u>prohibited</u> uses of this device."
+          },
+          {
+            "ordinal": 3,
+            "required": false,
+            "title": "<u>Software Updates</u>",
+            "text": "Information on how and when <em>device software</em> will be updated, including <strong>automatic updates</strong> and <small>user-initiated updates</small>."
+          },
+          {
+            "ordinal": 4,
+            "required": false,
+            "title": "<em>Data Sharing</em>",
+            "text": "How your <strong>data</strong> might be shared with third parties for service <i>integration</i>."
+          },
+          {
+            "ordinal": 5,
+            "required": false,
+            "title": "Warranty",
+            "text": "Details the warranty provided, what it covers, and its duration."
+          }
+        ],
+        "es": [
+          {
+            "ordinal": 0,
+            "required": true,
+            "title": "<strong>Términos y Condiciones</strong>",
+            "text": "Lea atentamente estos términos y condiciones, ya que rigen <i>su uso</i> del dispositivo. Al continuar, usted <u>acepta</u> cumplir con estos términos."
+          },
+          {
+            "ordinal": 1,
+            "required": true,
+            "title": "<strong>Política de Privacidad</strong>",
+            "text": "Esta política describe cómo se recopilan, <u>utilizan</u> y protegen los <i>datos personales</i>. Su privacidad es importante para nosotros."
+          },
+          {
+            "ordinal": 2,
+            "required": false,
+            "title": "<b>Uso del Dispositivo</b>",
+            "text": "Directrices sobre los usos <em>apropiados</em> y <u>prohibidos</u> de este dispositivo."
+          },
+          {
+            "ordinal": 3,
+            "required": false,
+            "title": "<u>Actualizaciones de Software</u>",
+            "text": "Información sobre cómo y cuándo se actualizará el <em>software del dispositivo</em>, incluyendo <strong>actualizaciones automáticas</strong> y <small>actualizaciones iniciadas por el usuario</small>."
+          },
+          {
+            "ordinal": 4,
+            "required": false,
+            "title": "<em>Compartir Datos</em>",
+            "text": "Cómo sus <strong>datos</strong> podrían compartirse con terceros para la <i>integración</i> de servicios."
+          },
+          {
+            "ordinal": 5,
+            "required": false,
+            "title": "Garantía",
+            "text": "Detalla la garantía proporcionada, lo que cubre y su duración."
+          }
+        ]
+      }
+    },
+    "CN": {
+      "defaultLanguage": "zh",
+      "languageEntries": {
+        "en": [
+          {
+            "ordinal": 0,
+            "required": true,
+            "title": "<strong>Terms and Conditions</strong>",
+            "text": "Please read these terms and conditions carefully, as they govern <i>your use</i> of the device. By proceeding, you <u>agree</u> to comply with these terms."
+          },
+          {
+            "ordinal": 1,
+            "required": true,
+            "title": "<strong>Privacy Policy</strong>",
+            "text": "This policy outlines how <i>personal data</i> is collected, <u>used</u>, and protected. Your privacy is important to us."
+          },
+          {
+            "ordinal": 2,
+            "required": false,
+            "title": "<b>Device Usage</b>",
+            "text": "Guidelines on the <em>appropriate</em> and <u>prohibited</u> uses of this device."
+          },
+          {
+            "ordinal": 3,
+            "required": false,
+            "title": "<u>Software Updates</u>",
+            "text": "Information on how and when <em>device software</em> will be updated, including <strong>automatic updates</strong> and <small>user-initiated updates</small>."
+          },
+          {
+            "ordinal": 4,
+            "required": false,
+            "title": "<em>Data Sharing</em>",
+            "text": "How your <strong>data</strong> might be shared with third parties for service <i>integration</i>."
+          },
+          {
+            "ordinal": 5,
+            "required": false,
+            "title": "Warranty",
+            "text": "Details the warranty provided, what it covers, and its duration."
+          }
+        ],
+        "zh": [
+          {
+            "ordinal": 0,
+            "required": true,
+            "title": "<strong>条款和条件</strong>",
+            "text": "请仔细阅读这些条款和条件，因为它们管辖<i>您对</i>设备的使用。继续操作即表示您<u>同意</u>遵守这些条款。"
+          },
+          {
+            "ordinal": 1,
+            "required": true,
+            "title": "<strong>隐私政策</strong>",
+            "text": "本政策概述了如何收集、<u>使用</u>和保护<i>个人数据</i>。您的隐私对我们很重要。"
+          },
+          {
+            "ordinal": 2,
+            "required": false,
+            "title": "<b>设备使用</b>",
+            "text": "关于本设备<em>适当</em>和<u>禁止</u>使用的指南。"
+          },
+          {
+            "ordinal": 3,
+            "required": false,
+            "title": "<u>软件更新</u>",
+            "text": "关于<em>设备软件</em>何时以及如何更新的信息，包括<strong>自动更新</strong>和<small>用户发起的更新</small>。"
+          },
+          {
+            "ordinal": 4,
+            "required": false,
+            "title": "<em>数据共享</em>",
+            "text": "您的<strong>数据</strong>可能如何与第三方共享以进行服务<i>集成</i>。"
+          },
+          {
+            "ordinal": 5,
+            "required": false,
+            "title": "保修",
+            "text": "详细说明所提供的保修、涵盖范围及其期限。"
+          }
+        ]
+      }
+    },
+    "RU": {
+      "defaultLanguage": "ru",
+      "languageEntries": {
+        "en": [
+          {
+            "ordinal": 0,
+            "required": true,
+            "title": "<strong>Terms and Conditions</strong>",
+            "text": "Please read these terms and conditions carefully, as they govern <i>your use</i> of the device. By proceeding, you <u>agree</u> to comply with these terms."
+          },
+          {
+            "ordinal": 1,
+            "required": true,
+            "title": "<strong>Privacy Policy</strong>",
+            "text": "This policy outlines how <i>personal data</i> is collected, <u>used</u>, and protected. Your privacy is important to us."
+          },
+          {
+            "ordinal": 2,
+            "required": false,
+            "title": "<b>Device Usage</b>",
+            "text": "Guidelines on the <em>appropriate</em> and <u>prohibited</u> uses of this device."
+          },
+          {
+            "ordinal": 3,
+            "required": false,
+            "title": "<u>Software Updates</u>",
+            "text": "Information on how and when <em>device software</em> will be updated, including <strong>automatic updates</strong> and <small>user-initiated updates</small>."
+          },
+          {
+            "ordinal": 4,
+            "required": false,
+            "title": "<em>Data Sharing</em>",
+            "text": "How your <strong>data</strong> might be shared with third parties for service <i>integration</i>."
+          },
+          {
+            "ordinal": 5,
+            "required": false,
+            "title": "Warranty",
+            "text": "Details the warranty provided, what it covers, and its duration."
+          }
+        ],
+        "ru": [
+          {
+            "ordinal": 0,
+            "required": true,
+            "title": "<strong>Условия и положения</strong>",
+            "text": "Пожалуйста, внимательно прочитайте эти условия, так как они регулируют <i>ваше использование</i> устройства. Продолжая, вы <u>соглашаетесь</u> соблюдать эти условия."
+          },
+          {
+            "ordinal": 1,
+            "required": true,
+            "title": "<strong>Политика конфиденциальности</strong>",
+            "text": "Эта политика описывает, как <i>персональные данные</i> собираются, <u>используются</u> и защищаются. Ваша конфиденциальность важна для нас."
+          },
+          {
+            "ordinal": 2,
+            "required": false,
+            "title": "<b>Использование устройства</b>",
+            "text": "Рекомендации по <em>надлежащему</em> и <u>запрещённому</u> использованию данного устройства."
+          },
+          {
+            "ordinal": 3,
+            "required": false,
+            "title": "<u>Обновления программного обеспечения</u>",
+            "text": "Информация о том, как и когда будет обновляться <em>программное обеспечение устройства</em>, включая <strong>автоматические обновления</strong> и <small>обновления по инициативе пользователя</small>."
+          },
+          {
+            "ordinal": 4,
+            "required": false,
+            "title": "<em>Обмен данными</em>",
+            "text": "Как ваши <strong>данные</strong> могут быть переданы третьим лицам для <i>интеграции</i> сервисов."
+          },
+          {
+            "ordinal": 5,
+            "required": false,
+            "title": "Гарантия",
+            "text": "Подробная информация о предоставляемой гарантии, что она покрывает и её срок действия."
+          }
+        ]
+      }
+    }
+  }
+}
